@@ -8,7 +8,7 @@
 - In order to start with the task, do the following:
   - Fork this repo
   - Clone it on your personal device
-  - Create a new branch with the following name, viv\_\&lt;your\_name\&gt;
+  - Create a new branch with the following name, viv_<your_name>;
   - All the code that you write should be on that branch
   - Push it to your fork
   - Then create a pull request to the original repository
